@@ -103,4 +103,5 @@ and technical solutions to meet the contractual requirements of our customers, H
 ---
 
 [Connect with Andrew Zbikowski on LinkedIn](https://www.linkedin.com/in/andrewzbikowski, "Connect with Andrew Zbikowski on LinkedIn")
+
 [Andrew Zbikowski on GitHub](https://github.com/andyzib)
