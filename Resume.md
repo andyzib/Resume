@@ -96,12 +96,12 @@ and technical solutions to meet the contractual requirements of our customers, H
 * Migration from Novell Netware 5 and NDS to Windows Server 2003 and Active Directory. 
 
 ## Education and Training
-* Associate of Applied Science in Computer and Network Systems, ITT Technical Institute (2006) 
-* Mac OS X Deployment and Directory Services Integration and Migration (2007)
 * CXD-300I: Deploying App and Desktop Solutions with Citrix XenApp and XenDesktop 7.6 (March 2015) 
+* Mac OS X Deployment and Directory Services Integration and Migration (2007)
+* Associate of Applied Science in Computer and Network Systems, ITT Technical Institute (2006) 
+
+## Online
+* [Connect with Andrew Zbikowski on LinkedIn](https://www.linkedin.com/in/andrewzbikowski, "Connect with Andrew Zbikowski on LinkedIn")
+* [Andrew Zbikowski on GitHub](https://github.com/andyzib, ""Andrew Zbikowski on GitHub")
 
 ---
-
-[Connect with Andrew Zbikowski on LinkedIn](https://www.linkedin.com/in/andrewzbikowski, "Connect with Andrew Zbikowski on LinkedIn")
-
-[Andrew Zbikowski on GitHub](https://github.com/andyzib)
